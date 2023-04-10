@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Ritu Maria Johny",
+            "title": "Akasa Air to go international soon, hire 1,000 people by 2024 - Hindustan Times",
+            "description": "Akasa Air plans to increase total employee count to over 3,000 by March 2024 and is in the process of finalising its overseas destination.",
+            "url": "https://www.hindustantimes.com/business/akasa-air-to-go-international-soon-hire-1-000-people-by-2024-101679712259187.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/03/25/1600x900/akasa_air_1679712448802_1679712449053_1679712449053.jpg",
+            "publishedAt": "2023-03-25T02:57:12Z",
+            "content": "Akasa Air is set to hire roughly 1,000 new employees to take the overall workforce to over 3,000 by the end of March 2024, as per a report by news agency PTI. In an interview with PTI, CEO Vinay Dube… [+2628 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Explained Desk",
+            "title": "What has Hindenburg’s report alleged against Jack Dorsey’s Block Inc? - The Indian Express",
+            "description": "Hindenburg claimed that numerous accounts on Block's Cash App platform were fake or involved in fraud",
+            "url": "https://indianexpress.com/article/explained/explained-sci-tech/hindenburg-report-jack-dorsey-block-inc-8517322/",
+            "urlToImage": "https://images.indianexpress.com/2023/03/Jack-Dorsey.jpg",
+            "publishedAt": "2023-03-25T01:30:15Z",
+            "content": "Bloc Inc. co-founder Jack Dorseys wealth took a massive hit as he lost more than $500 million on Thursday (March 23) after New York-based investor research firm and short-seller, Hindenburg Research,… [+3871 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Asit Manohar",
+            "title": "Gold price dips as US dollar rebounds from 7-week low. Buy, hold or exit? | Mint - Mint",
+            "description": "Gold rate today is dictated by the US dollar rate and bank crisis in US, believe experts",
+            "url": "https://www.livemint.com/market/commodities/gold-price-dips-as-us-dollar-rebounds-from-7-week-low-buy-hold-or-exit-11679704838990.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2023/03/25/600x338/gold_rate_today_1679704954642_1679704954933_1679704954933.jpg",
+            "publishedAt": "2023-03-25T00:48:08Z",
+            "content": "Gold rate today: On account of US dollar rates rebounding from 7-week lows and Dollar Index sustaining above the psychological 102 levels, profit booking triggered in the yellow metal on the weekend … [+4909 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Anuradha Shukla and Deepshikha Sikarwar",
+            "title": "No more royal treatment for Indian arms of MNCs as govt doubles tax on royalty, fee for technical services - Economic Times",
+            "description": "Apart from hitting companies with parents in jurisdictions that do not have a tax avoidance treaty with India, the move also makes it possible for the government to impose the higher treaty rate of 15% on local arms of companies from the US, UK and other coun…",
+            "url": "https://economictimes.indiatimes.com/news/economy/policy/no-more-royal-treatment-for-indian-arms-of-mncs-as-govt-doubles-tax-on-royalty-fee-for-technical-services/articleshow/98982426.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-98982460,width-1070,height-580,imgsize-782314,overlay-economictimes/photo.jpg",
+            "publishedAt": "2023-03-25T00:37:00Z",
+            "content": "New Delhi: The Indian arms of the US- and UK-based multinational companies such as Hindustan Unilever, PepsiCo India, and Coca-Cola India will now be subject to a higher rate of tax on royalty paymen… [+1896 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Livemint",
+            "title": "FM Nirmala Sitharaman to meet chiefs of PSU Banks today; here's what's on agenda | Mint - Mint",
+            "description": "This will be the first full review meeting after the presentation of Union Budget 2023-24 on 1 February. The banks would also be asked to focus on the areas highlighted by the Budget, including credit flow to productive sectors.",
+            "url": "https://www.livemint.com/news/india/fm-nirmala-sitharaman-to-meet-chiefs-of-psu-banks-today-here-s-what-s-on-agenda-11679703136502.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2023/03/25/600x338/JJ2BGPTI_1679680450837_1679703429617_1679703429617.jpg",
+            "publishedAt": "2023-03-25T00:34:08Z",
+            "content": "Finance minister Niramala Sitharaman on 25 March will meet managing directors of public sector banks (PSBs) in order to review performance against the backdrop of the failure of a few banks in the US… [+3594 chars]"
+        }
+    ]
+}
